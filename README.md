@@ -11,4 +11,5 @@ We detect if there is a deadlock or not in a resource allocation graph using top
 1. Aadharsh Aadhithya
 2. Anirudh Edpuganti
 3. Onteddu Chaitanya Reddy
-4. Pillalamarri Akshaya   
+4. Pillalamarri Akshaya
+5. Madhav Kishor   
